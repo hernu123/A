@@ -66,4 +66,24 @@ string_y = "one WaY Oo solVe an enNKYpOeU messaRe, Pf We knoW POs lanRQaRe, Ps O
 string_z = string_y.replace("J","q")
 print(string_z)
 
+string_ab = "one WaY Oo solVe an enNKYpOeU messaRe, Pf We knoW POs lanRQaRe, Ps Oo fPnU a UPffeKenO plaPnOeXO of Ohe same lanRQaRe lonR enoQRh Oo fPll one sheeO oK so, anU Ohen We NoQnO Ohe oNNQKKenNes of eaNh leOOeK. We Nall Ohe mosO fKeqQenOlY oNNQKKPnR leOOeK Ohe 'fPKsO', Ohe neXO mosO oNNQKKPnR leOOeK Ohe 'seNonU' Ohe folloWPnR mosO oNNQKKPnR leOOeK Ohe 'OhPKU', anU so on, QnOPl We aNNoQnO foK all Ohe UPffeKenO leOOeKs Pn Ohe plaPnOeXO sample. Ohen We look aO Ohe NPpheK OeXO We WanO Oo solVe anU We also NlassPfY POs sYmbols. We fPnU Ohe mosO oNNQKKPnR sYmbol anU NhanRe PO Oo Ohe foKm of Ohe 'fPKsO' leOOeK of Ohe plaPnOeXO sample, Ohe neXO mosO Nommon sYmbol Ps NhanReU Oo Ohe foKm of Ohe 'seNonU' leOOeK, anU Ohe folloWPnR mosO Nommon sYmbol Ps NhanReU Oo Ohe foKm of Ohe 'OhPKU' leOOeK, anU so on, QnOPl We aNNoQnO foK all sYmbols of Ohe NKYpOoRKam We WanO Oo solVe."
+string_cd = string_ab.replace("K","r")
+print(string_cd)
+
+string_ef = "one WaY Oo solVe an enNrYpOeU messaRe, Pf We knoW POs lanRQaRe, Ps Oo fPnU a UPfferenO plaPnOeXO of Ohe same lanRQaRe lonR enoQRh Oo fPll one sheeO or so, anU Ohen We NoQnO Ohe oNNQrrenNes of eaNh leOOer. We Nall Ohe mosO freqQenOlY oNNQrrPnR leOOer Ohe 'fPrsO', Ohe neXO mosO oNNQrrPnR leOOer Ohe 'seNonU' Ohe folloWPnR mosO oNNQrrPnR leOOer Ohe 'OhPrU', anU so on, QnOPl We aNNoQnO for all Ohe UPfferenO leOOers Pn Ohe plaPnOeXO sample. Ohen We look aO Ohe NPpher OeXO We WanO Oo solVe anU We also NlassPfY POs sYmbols. We fPnU Ohe mosO oNNQrrPnR sYmbol anU NhanRe PO Oo Ohe form of Ohe 'fPrsO' leOOer of Ohe plaPnOeXO sample, Ohe neXO mosO Nommon sYmbol Ps NhanReU Oo Ohe form of Ohe 'seNonU' leOOer, anU Ohe folloWPnR mosO Nommon sYmbol Ps NhanReU Oo Ohe form of Ohe 'OhPrU' leOOer, anU so on, QnOPl We aNNoQnO for all sYmbols of Ohe NrYpOoRram We WanO Oo solVe."
+string_ba = string_ef.replace("L","s")
+print(string_ba)
+
+string_ma = "one WaY Oo solVe an enNrYpOeU messaRe, Pf We knoW POs lanRQaRe, Ps Oo fPnU a UPfferenO plaPnOeXO of Ohe same lanRQaRe lonR enoQRh Oo fPll one sheeO or so, anU Ohen We NoQnO Ohe oNNQrrenNes of eaNh leOOer. We Nall Ohe mosO freqQenOlY oNNQrrPnR leOOer Ohe 'fPrsO', Ohe neXO mosO oNNQrrPnR leOOer Ohe 'seNonU' Ohe folloWPnR mosO oNNQrrPnR leOOer Ohe 'OhPrU', anU so on, QnOPl We aNNoQnO for all Ohe UPfferenO leOOers Pn Ohe plaPnOeXO sample. Ohen We look aO Ohe NPpher OeXO We WanO Oo solVe anU We also NlassPfY POs sYmbols. We fPnU Ohe mosO oNNQrrPnR sYmbol anU NhanRe PO Oo Ohe form of Ohe 'fPrsO' leOOer of Ohe plaPnOeXO sample, Ohe neXO mosO Nommon sYmbol Ps NhanReU Oo Ohe form of Ohe 'seNonU' leOOer, anU Ohe folloWPnR mosO Nommon sYmbol Ps NhanReU Oo Ohe form of Ohe 'OhPrU' leOOer, anU so on, QnOPl We aNNoQnO for all sYmbols of Ohe NrYpOoRram We WanO Oo solVe."
+string_aa = string_ma.replace("N","c")
+print(string_aa)
+
+string_bb = "one WaY Oo solVe an encrYpOeU messaRe, Pf We knoW POs lanRQaRe, Ps Oo fPnU a UPfferenO plaPnOeXO of Ohe same lanRQaRe lonR enoQRh Oo fPll one sheeO or so, anU Ohen We coQnO Ohe occQrrences of each leOOer. We call Ohe mosO freqQenOlY occQrrPnR leOOer Ohe 'fPrsO', Ohe neXO mosO occQrrPnR leOOer Ohe 'seconU' Ohe folloWPnR mosO occQrrPnR leOOer Ohe 'OhPrU', anU so on, QnOPl We accoQnO for all Ohe UPfferenO leOOers Pn Ohe plaPnOeXO sample. Ohen We look aO Ohe cPpher OeXO We WanO Oo solVe anU We also classPfY POs sYmbols. We fPnU Ohe mosO occQrrPnR sYmbol anU chanRe PO Oo Ohe form of Ohe 'fPrsO' leOOer of Ohe plaPnOeXO sample, Ohe neXO mosO common sYmbol Ps chanReU Oo Ohe form of Ohe 'seconU' leOOer, anU Ohe folloWPnR mosO common sYmbol Ps chanReU Oo Ohe form of Ohe 'OhPrU' leOOer, anU so on, QnOPl We accoQnO for all sYmbols of Ohe crYpOoRram We WanO Oo solVe."
+string_cc = string_bb.replace("O","t")
+print(string_cc)
+
+string_ol = "one WaY to solVe an encrYpteU messaRe, Pf We knoW Pts lanRQaRe, Ps to fPnU a UPfferent plaPnteXt of the same lanRQaRe lonR enoQRh to fPll one sheet or so, anU then We coQnt the occQrrences of each letter. We call the most freqQentlY occQrrPnR letter the 'fPrst', the neXt most occQrrPnR letter the 'seconU' the folloWPnR most occQrrPnR letter the 'thPrU', anU so on, QntPl We accoQnt for all the UPfferent letters Pn the plaPnteXt sample. then We look at the cPpher teXt We Want to solVe anU We also classPfY Pts sYmbols. We fPnU the most occQrrPnR sYmbol anU chanRe Pt to the form of the 'fPrst' letter of the plaPnteXt sample, the neXt most common sYmbol Ps chanReU to the form of the 'seconU' letter, anU the folloWPnR most common sYmbol Ps chanReU to the form of the 'thPrU' letter, anU so on, QntPl We accoQnt for all sYmbols of the crYptoRram We Want to solVe."
+string_dd = string_ol.replace("P","i")
+print(string_dd)
+
 
